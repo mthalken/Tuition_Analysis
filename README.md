@@ -15,8 +15,8 @@
 
 ## Results 
 
-![png](link)
-[here](https://public.tableau.com/views/TuitionAnalysis_16382348800880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+![png](https://github.com/mthalken/Tuition_Analysis/blob/main/Resources/Images/Dashboard%201.png)
+Please see the Interactive Tableau Dashboard [here](https://public.tableau.com/views/TuitionAnalysis_16382348800880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 
 ## The analysis
