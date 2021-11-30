@@ -1,10 +1,10 @@
 # US Tuition Analysis
 
-## The purpose of this analysis was to look at tuition costs for US insitutions for 4 year and 2 year colleges with graduation rates. We also looked at the average price of tuition per state. 
+## The purpose of this analysis was to look at tuition costs for US institutions for 4-year and 2-year colleges with graduation rates. We also looked at the average price of tuition per state. 
 
 ## Project Overview:
 1. Organize, clean, and create tables to be able to present the data. 
-2. Calculate the results for Cost for Tuition and Fees per Year, Graduation Rate for 2 and 4 Year Institutions, and Cost for Tution and Fees by State and Year.  
+2. Calculate the results for Cost for Tuition and Fees per Year, Graduation Rate for 2- and 4-Year Institutions, and Cost for Tuition and Fees by State and Year.  
 3. Use Tableau make an interactive representation of the data.
 
 ## Resources
@@ -15,23 +15,14 @@
 
 ## Results 
 
-https://public.tableau.com/views/TuitionAnalysis_16382348800880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+![png](link)
+[here](https://public.tableau.com/views/TuitionAnalysis_16382348800880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-### The analysis
-- What are two conclusions you can draw?
+## The analysis
+- From the data we can see that published tuition and fees is quite a bit lower than that of the actual costs for either living on campus or off campus. We can also see that there is a steady increase in the cost per year. Graduation rates for 4-year institutions are typically higher, further analysis could show cost vs graduation rates at 2 and 4 year institutions. As for the average cost by state and year we can see that some states can more than double the cost of tuition and fees than others. 
 
-- What can you conclude?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
-## Summary
+- Further analysis could look at the average tuition and fees by region, cost vs graduation rates at 2 and 4 year institutions, total cost including tuition and fees, and total student loans for 2- and 4-year institutions by state. 
 
 
-
-
-image link: ![png](link)
-clink link: [here](link)
 
