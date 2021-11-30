@@ -9,7 +9,7 @@
 
 ## Resources
 - Source of data: [graduation_rates](https://github.com/mthalken/Tuition_Analysis/blob/main/Resources/grad-rates.csv) and [cost_attendance](https://github.com/mthalken/Tuition_Analysis/blob/main/Resources/cost-attendance.csv)
-- Software: Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0, Visual Studio Code 1.60.2
+- Software: Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0, Visual Studio Code 1.60.2, Tableau Public 2021.3
 - Please see the [here](https://github.com/mthalken/Tuition_Analysis/blob/main/Refactored_Cleaning_Code.ipynb) to see the refactored code.
 - You can also see the preliminary code [here](https://github.com/mthalken/Tuition_Analysis/blob/main/cleaning_csv's.ipynb)
 
